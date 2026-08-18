@@ -108,7 +108,7 @@ A private digital archive for marching-band trumpet activities.
 
 <div align="center">
 
-![Contribution Snake](https://raw.githubusercontent.com/rasya-novian/rasya-novian/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/rsya0711/rasya-novian/output/github-snake-dark.svg" width="100%">
 
 </div>
 

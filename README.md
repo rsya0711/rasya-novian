@@ -27,7 +27,7 @@
 const rasya = {
   name: "Rasya Novian",
   role: "Full-Stack Developer",
-  focus: ["Web Development", "AI", "Open Source"],
+  focus: ["Web Development", "AI engineer", "Open Source"],
   currentlyBuilding: ["ToolsUMKM", "AI Projects", "Face Rec.", "Chatbot"],
   stack: ["TypeScript", "React", "Next.js", "Node.js", "PostgreSQL"],
   mindset: "1% better every day"
@@ -88,12 +88,6 @@ Experiments and projects while learning AI, machine learning, and intelligent ap
 
 <tr>
 <td width="50%" valign="top">
-
-### 🏫 Sekolah Backend
-
-School management API with authentication, academic data, attendance, and PostgreSQL.
-
-**Stack:** `Node.js` `Express` `Prisma`
 
 </td>
 <td width="50%" valign="top">

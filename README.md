@@ -2,14 +2,14 @@
 
 <img src="./assets/dragon-banner.png" alt="Green Dragon GitHub Banner" width="100%"/>
 
-# 🐉 Rasya Novian
+<h1 align="center">🐉 Rasya Novian</h1>
 
-### Full-Stack Developer • AI Engineer • Builder
+<h3 align="center">Full-Stack Developer • AI Engineer • Builder</h3>
 
 **Building useful things. Learning every day.**
 
 <p>
-  <a href="https://github.com/rasya-novian">
+  <a href="https://github.com/rsya0711">
     <img src="https://img.shields.io/badge/GitHub-0B0F0E?style=for-the-badge&logo=github&logoColor=00FF66" />
   </a>
   <a href="https://toolsumkm.com">
@@ -26,101 +26,171 @@
 ```ts
 const rasya = {
   name: "Rasya Novian",
-  role: "Full-Stack Developer",
-  focus: ["Web Development", "AI engineer", "Open Source"],
-  currentlyBuilding: ["ToolsUMKM", "AI Projects", "Face Rec.", "Chatbot"],
-  stack: ["TypeScript", "React", "Next.js", "Node.js", "PostgreSQL"],
-  mindset: "1% better every day"
+  role: "Full-Stack Developer & AI Engineer",
+  focus: [
+    "Full-Stack Development",
+    "AI Engineering",
+    "Open Source"
+  ],
+  currentlyBuilding: [
+    "ToolsUMKM",
+    "AI Projects",
+    "Face Recognition",
+    "AI Chatbot"
+  ],
+  stack: [
+    "TypeScript",
+    "React",
+    "Next.js",
+    "Node.js",
+    "Python",
+    "PostgreSQL"
+  ]
 };
 ```
 
+---
+
 ## ⚡ Tech Stack
 
-<div align="center">
+### Frontend
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+  </a>
+</p>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-0B0F0E?style=for-the-badge&logo=javascript&logoColor=00FF66)
-![TypeScript](https://img.shields.io/badge/TypeScript-0B0F0E?style=for-the-badge&logo=typescript&logoColor=00FF66)
-![React](https://img.shields.io/badge/React-0B0F0E?style=for-the-badge&logo=react&logoColor=00FF66)
-![Next.js](https://img.shields.io/badge/Next.js-0B0F0E?style=for-the-badge&logo=nextdotjs&logoColor=00FF66)
-![Node.js](https://img.shields.io/badge/Node.js-0B0F0E?style=for-the-badge&logo=nodedotjs&logoColor=00FF66)
+### Backend
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres" />
+  </a>
+</p>
 
-![Express](https://img.shields.io/badge/Express-0B0F0E?style=for-the-badge&logo=express&logoColor=00FF66)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B0F0E?style=for-the-badge&logo=postgresql&logoColor=00FF66)
-![Prisma](https://img.shields.io/badge/Prisma-0B0F0E?style=for-the-badge&logo=prisma&logoColor=00FF66)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-0B0F0E?style=for-the-badge&logo=tailwindcss&logoColor=00FF66)
-![Git](https://img.shields.io/badge/Git-0B0F0E?style=for-the-badge&logo=git&logoColor=00FF66)
+### AI & Programming
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+</p>
 
-![Docker](https://img.shields.io/badge/Docker-0B0F0E?style=for-the-badge&logo=docker&logoColor=00FF66)
+### Tools & DevOps
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+  </a>
+</p>
 
-![Python](https://img.shields.io/badge/Python-0B0F0E?style=for-the-badge&logo=python&logoColor=00FF66)
+---
 
-</div>
+## 🛠️ What I Do
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">🌐 Web Development</h3>
+      <p align="center">Building responsive, high-performance web applications and scalable backends.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🤖 AI Engineering</h3>
+      <p align="center">Integrating LLMs, computer vision, and building intelligent autonomous systems.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🚀 Product Building</h3>
+      <p align="center">Creating digital products from zero to one with focus on user experience.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🚀 Featured Projects
 
 <table>
-<tr>
-<td width="50%" valign="top">
+  <tr>
+    <td width="50%" valign="top">
 
-### 🟢 ToolsUMKM
+      <h3>🟢 ToolsUMKM</h3>
 
-All-in-one digital tools for Indonesian MSMEs.
+      <p>
+        An all-in-one digital tools platform designed to help Indonesian MSMEs work smarter.
+      </p>
 
-**Stack:** `Next.js` `TypeScript` `PostgreSQL`
+      <strong>Stack:</strong>
+      <code>Next.js</code>
+      <code>TypeScript</code>
+      <code>PostgreSQL</code>
 
-<a href="https://toolsumkm.com">View Project →</a>
+      <br/><br/>
 
-</td>
-<td width="50%" valign="top">
+      <a href="https://toolsumkm.com">View Project →</a>
 
-### 🤖 AI Playground
+    </td>
 
-Experiments and projects while learning AI, machine learning, and intelligent applications.
+    <td width="50%" valign="top">
 
-**Stack:** `Python` `AI` `Machine Learning`
+      <h3>🤖 Face Recognition</h3>
 
-<a href="https://github.com/rasya-novian">View Repositories →</a>
+      <p>
+        Exploring computer vision and face recognition through practical projects and experiments.
+      </p>
 
-</td>
-</tr>
+      <strong>Stack:</strong>
+      <code>Python</code>
+      <code>Computer Vision</code>
+      <code>AI</code>
 
-<tr>
-<td width="50%" valign="top">
+    </td>
+  </tr>
 
-</td>
-<td width="50%" valign="top">
+  <tr>
+    <td width="50%" valign="top">
 
-### 🎺 Trumpet Archive
+      <h3>💬 AI Chatbot</h3>
 
-A private digital archive for marching-band trumpet activities.
+      <p>
+        Building conversational AI systems and experimenting with intelligent assistants.
+      </p>
 
-**Stack:** `React` `TypeScript` `Cloudinary`
+      <strong>Stack:</strong>
+      <code>Python</code>
+      <code>AI</code>
+      <code>LLM</code>
 
-</td>
-</tr>
+    </td>
+
+    <td width="50%" valign="top">
+
+      <h3>🎺 Trumpet Archive</h3>
+
+      <p>
+        A private digital archive for marching-band trumpet activities, memories, and events.
+      </p>
+
+      <strong>Stack:</strong>
+      <code>React</code>
+      <code>TypeScript</code>
+      <code>Cloudinary</code>
+
+    </td>
+  </tr>
 </table>
 
 ---
 
-## 🐍 Contribution
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rsya0711/rasya-novian/output/github-snake-dark.svg" width="100%">
+![Contribution Snake](https://raw.githubusercontent.com/rsya0711/rsya0711/output/github-snake-dark.svg)
 
-</div>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rsya0711&show_icons=true&hide_border=true&bg_color=0B0F0E&title_color=00FF66&icon_color=00FF66&text_color=E8FFF0" />
 
----
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsya0711&layout=compact&hide_border=true&bg_color=0B0F0E&title_color=00FF66&text_color=E8FFF0" />
 
-## 📊 GitHub Stats
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rsya0711&bg_color=0B0F0E&color=00FF66&line=00FF66&point=E8FFF0&area=true&hide_border=true" />
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rasya-novian&show_icons=true&hide_border=true&bg_color=0B0F0E&title_color=00FF66&icon_color=00FF66&text_color=E8FFF0" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasya-novian&layout=compact&hide_border=true&bg_color=0B0F0E&title_color=00FF66&text_color=E8FFF0" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rsya0711&theme=dark&background=0B0F0E&ring=00FF66&fire=00FF66&currStreakLabel=00FF66" />
 
 </div>
 
@@ -129,17 +199,81 @@ A private digital archive for marching-band trumpet activities.
 ## 🌱 Currently Learning
 
 ```text
-[██████████████████░░]  Web Development
-[███████████████░░░░░]  AI / Machine Learning
-[████████████░░░░░░░░]  System Design
-[██████████░░░░░░░░░░]  Open Source
+WEB DEVELOPMENT
+████████████████░░░░  80%
+
+AI ENGINEERING
+███████████████░░░░░  75%
+
+MACHINE LEARNING
+██████████░░░░░░░░░░  50%
+
+SYSTEM DESIGN
+███████████░░░░░░░░░  55%
+
+OPEN SOURCE
+████████░░░░░░░░░░░░  40%
 ```
 
-> **Small steps. Consistent actions. Big results.** 💚
+---
+
+## 🔍 Currently Exploring
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Generative AI
+- Computer Vision
+- LLM Applications
+- AI Agents
+- System Design
+- Open Source
+
+---
+
+## 💻 Development Philosophy
 
 <div align="center">
 
-### `Code today. Better tomorrow.`
+### Build
+Create something useful.
+
+### Learn
+Understand how it works.
+
+### Break
+Experiment without being afraid of failure.
+
+### Fix
+Find the problem and solve it.
+
+### Repeat
+Keep getting better.
+
+> **"1% better every day."**
+
+</div>
+
+---
+
+## 🔗 Connect
+
+<div align="center">
+
+<a href="https://github.com/rsya0711">
+  <img src="https://img.shields.io/badge/GitHub-0B0F0E?style=for-the-badge&logo=github&logoColor=00FF66" />
+</a>
+<a href="https://toolsumkm.com">
+  <img src="https://img.shields.io/badge/ToolsUMKM-0B0F0E?style=for-the-badge&logo=vercel&logoColor=00FF66" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<h3 align="center"><code>Code today. Build tomorrow.</code></h3>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF66&height=80&section=footer" width="100%"/>
 

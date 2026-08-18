@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/dragon-banner.png" alt="Green Dragon GitHub Banner" width="100%"/>
+<img src="./assets/dragon.png.png" alt="Green Dragon GitHub Banner" width="100%"/>
 
 <h1 align="center">🐉 Rasya Novian</h1>
 
